@@ -1,7 +1,7 @@
 👋 Hi, I’m @Mo-Adnan-Mo-Ayyub
 👀 Interest: Passionate about DevSecOps and eager to dive deep into its practices.
 🌱 Currently Learning: DevSecOps best practices under the guidance of a highly experienced mentor.
-💞️ Looking to Collaborate: Open to contributing to open-source projects to gain hands-on experience and learn by doing.
+💞️ Looking to Collaborate: Open to contributing to open-source projects to get my hands dirty and learn by doing.
 📫 Contact: Feel free to reach out at moadnanmoayyub@gmail.com
 😄 Pronouns: he/him
 ⚡ Fun Fact: I can listen to rap music all day, every day! 🎧
